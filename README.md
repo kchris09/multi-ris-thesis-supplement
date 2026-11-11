@@ -19,7 +19,6 @@ The package does not contain all individual channel realizations, the complete o
 - `plot_figures.py`: plotting helper for both comparisons.
 - `requirements.txt`: plotting dependencies.
 - `figures/`: example PDF and PNG outputs from the plotting helper.
-- `CITATION.cff`: citation metadata for this supplementary package.
 - `RELEASE_NOTES.md`: proposed text for the first GitHub release.
 - `SHA256SUMS.txt`: checksums of the two unchanged CSVs.
 
